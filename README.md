@@ -1,11 +1,5 @@
 ### Using a Queue to manage a playlist
 
-**Branch Name:** usingstacksandqueues-prework
-
-**RDE workfows:**
-* `rde wflow run stacksandqueues-prework-queues-musicplayerapp`
-* `rde wflow run stacksandqueues-prework-queues-playlisttest`
-
 Expected time required: 15 min
 
 The included code represents a Music Player app and the music player's internal playlist

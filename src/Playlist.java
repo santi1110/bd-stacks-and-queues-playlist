@@ -1,6 +1,3 @@
-package com.amazon.ata.usingstacksandqueues.prework.queues;
-
-import com.amazon.ata.usingstacksandqueues.prework.queues.resources.Song;
 
 public class Playlist {
 
